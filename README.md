@@ -1,5 +1,5 @@
 # TraMP-LLaMA
-This is the PyTorch implementation for: TraMP-LLaMA: Generative Interpretability with Decoupled Instruction Tuning for Facial Expression Quality Assessment
+TraMP-LLaMA: Generative Interpretability with Decoupled Instruction Tuning for Facial Expression Quality Assessment
 [arXiv version]()
 
 We propose TraMP-LLaMA, a unified multimodal framework that jointly predicts severity scores and generates structured textual reports from facial motion cues. To support this task, we further extend the PFED5 dataset with expert-guided textual motion descriptions and construct PFED5+.
