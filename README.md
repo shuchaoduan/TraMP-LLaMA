@@ -8,7 +8,7 @@ We propose TraMP-LLaMA, a unified multimodal framework that jointly predicts sev
 
 ## PFED5+ dataset
 
-1: Use the [link](https://github.com/shuchaoduan/QAFE-Net) to access the video frames and MDS-UPDRS labels.
+1: Please request the access to video frames and MDS-UPDRS labels through this [link](https://github.com/shuchaoduan/QAFE-Net).
 
 2: The motion description labels are provided [here]().
 
