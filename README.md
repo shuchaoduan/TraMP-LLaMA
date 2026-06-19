@@ -3,7 +3,7 @@ This is the PyTorch implementation for: TraMP-LLaMA: Generative Interpretability
 [arXiv version]()
 
 We propose TraMP-LLaMA, a unified multimodal framework that jointly predicts severity scores and generates structured textual reports from facial motion cues. To support this task, we further extend the PFED5 dataset with expert-guided textual motion descriptions and construct PFED5+.
-![pipeline](imgs/pipeline.png)
+![pipeline](imgs/pipeline.pdf)
 
 
 ## PFED5+ dataset
