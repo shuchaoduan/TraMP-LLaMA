@@ -1,6 +1,6 @@
 # TraMP-LLaMA
 TraMP-LLaMA: Generative Interpretability with Decoupled Instruction Tuning for Facial Expression Quality Assessment
-[arXiv version]()
+[arXiv version](https://arxiv.org/pdf/2606.26942)
 
 We propose TraMP-LLaMA, a unified multimodal framework that jointly predicts severity scores and generates structured textual reports from facial motion cues. To support this task, we further extend the PFED5 dataset with expert-guided textual motion descriptions and construct PFED5+.
 ![pipeline](imgs/pipeline.png)
@@ -16,6 +16,14 @@ We propose TraMP-LLaMA, a unified multimodal framework that jointly predicts sev
 If you find our work useful in your research, please consider giving it a star ⭐ and citing our paper in your work:
 
 ```
+@misc{trampllama,
+      title={TraMP-LLaMA: Generative Interpretability with Decoupled Instruction Tuning for Facial Expression Quality Assessment}, 
+      author={Shuchao Duan and Alan Whone and Hossein Rahmani and Jun Liu and Majid Mirmehdi},
+      year={2026},
+      eprint={2606.26942},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 @INPROCEEDINGS{tramp-former,
   title={Trajectory-guided Motion Perception for Facial Expression Quality Assessment in Neurological Disorders},
   author={Shuchao Duan and Amirhossein Dadashzadeh and Alan Whone and Majid Mirmehdi},
