@@ -42,3 +42,4 @@ If you find our work useful in your research, please consider giving it a star â
 ```
 
 ## Acknowledgement
+This codebase builds upon [VideoLLaMA3](https://github.com/damo-nlp-sg/videollama3). We gratefully acknowledge their contributions to the open-source community.
